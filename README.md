@@ -1,4 +1,4 @@
-# ⚡ EV Charging Network Dashboard | Tata Power Infrastructure Expansion Analysis
+# ⚡ EV Charging Network Dashboard | Tera Power Infrastructure Expansion Analysis
 
 ## 📊 Dashboard Preview
 
@@ -8,7 +8,7 @@
 
 ## 📌 Project Overview
 
-This project presents an interactive Power BI dashboard designed to analyze EV charging station performance, customer charging behavior, district-wise demand, and financial feasibility of charging infrastructure expansion across Bengaluru.
+This project presents an interactive excel dashboard designed to analyze EV charging station performance, customer charging behavior, district-wise demand, and financial feasibility of charging infrastructure expansion across Bengaluru.
 
 The dashboard helps stakeholders identify high-demand locations, evaluate investment opportunities, and optimize charging network growth using data-driven insights.
 
@@ -60,7 +60,6 @@ The dashboard helps stakeholders identify high-demand locations, evaluate invest
 
 ## 🛠️ Tools Used
 
-- Power BI
 - Power Query
 - DAX
 - Excel
