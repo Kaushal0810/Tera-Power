@@ -2,7 +2,7 @@
 
 ## 📊 Dashboard Preview
 
-![EV Charging Network Dashboard](Capture(1).JPG)
+![EV Charging Network Dashboard](Capture.JPG)
 
 ---
 
